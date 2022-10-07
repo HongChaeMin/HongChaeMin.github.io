@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2528d2cd.css",
-    "main.js": "/static/js/main.ba58a0d2.js",
+    "main.js": "/static/js/main.f5bab10e.js",
     "static/media/KakaoTalk_20221006_135710459.jpg": "/static/media/KakaoTalk_20221006_135710459.1dce4c839f403a8a7dc5.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/team-2-800x800.jpg": "/static/media/team-2-800x800.3e08ef145920c93bbe32.jpg",
@@ -25,10 +25,10 @@
     "static/media/github.svg": "/static/media/github.6c95555646a0ecabf549179c97bf0e7d.svg",
     "index.html": "/index.html",
     "main.2528d2cd.css.map": "/static/css/main.2528d2cd.css.map",
-    "main.ba58a0d2.js.map": "/static/js/main.ba58a0d2.js.map"
+    "main.f5bab10e.js.map": "/static/js/main.f5bab10e.js.map"
   },
   "entrypoints": [
     "static/css/main.2528d2cd.css",
-    "static/js/main.ba58a0d2.js"
+    "static/js/main.f5bab10e.js"
   ]
 }
