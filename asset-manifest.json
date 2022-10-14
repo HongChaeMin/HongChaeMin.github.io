@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b415590d.css",
-    "main.js": "/static/js/main.32f5dd70.js",
+    "main.css": "/static/css/main.b080ce3a.css",
+    "main.js": "/static/js/main.a8f6f1c5.js",
     "static/media/KakaoTalk_20221006_135710459.jpg": "/static/media/KakaoTalk_20221006_135710459.1dce4c839f403a8a7dc5.jpg",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/team-2-800x800.jpg": "/static/media/team-2-800x800.3e08ef145920c93bbe32.jpg",
@@ -13,6 +13,7 @@
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/nucleo-icons.svg": "/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
     "static/media/team-4-800x800.jpg": "/static/media/team-4-800x800.99c612eb60728a5aeeb0.jpg",
+    "static/media/index.cjs": "/static/media/index.b599194a631d76b49328.cjs",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/ill-2.svg": "/static/media/ill-2.b82bc41ca8f27286779053cc2a544e93.svg",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
@@ -24,11 +25,11 @@
     "static/media/google.svg": "/static/media/google.eae9aa9354350126d1b032847835a051.svg",
     "static/media/github.svg": "/static/media/github.6c95555646a0ecabf549179c97bf0e7d.svg",
     "index.html": "/index.html",
-    "main.b415590d.css.map": "/static/css/main.b415590d.css.map",
-    "main.32f5dd70.js.map": "/static/js/main.32f5dd70.js.map"
+    "main.b080ce3a.css.map": "/static/css/main.b080ce3a.css.map",
+    "main.a8f6f1c5.js.map": "/static/js/main.a8f6f1c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b415590d.css",
-    "static/js/main.32f5dd70.js"
+    "static/css/main.b080ce3a.css",
+    "static/js/main.a8f6f1c5.js"
   ]
 }
