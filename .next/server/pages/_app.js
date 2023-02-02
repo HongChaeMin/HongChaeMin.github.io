@@ -25,7 +25,7 @@ module.exports = {
 
 /***/ }),
 
-/***/ 7260:
+/***/ 5562:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -459,11 +459,15 @@ const Hr = (external_styled_components_default()).hr`
   margin-bottom: 1.5rem;
 `;
 
-;// CONCATENATED MODULE: ./context/context.jsx
+;// CONCATENATED MODULE: ./context/context.js
 
 const PortfolioContext = /*#__PURE__*/ external_react_default().createContext();
 const PortfolioProvider = PortfolioContext.Provider;
+const PortfolioConsumer = PortfolioContext.Consumer;
 /* harmony default export */ const context = ((/* unused pure expression or super */ null && (PortfolioContext)));
+
+;// CONCATENATED MODULE: ./config/config.js
+const prefix =  true ? "https://hhyemi.github.io/hyemi-portfolio" : 0;
 
 ;// CONCATENATED MODULE: ./pages/_app.tsx
 
@@ -474,10 +478,13 @@ const PortfolioProvider = PortfolioContext.Provider;
 
 
 
+
 function App({ Component , pageProps  }) {
-    return /*#__PURE__*/ jsx_runtime_.jsx(react_.ThemeProvider, {
-        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)(PortfolioProvider, {
-            value: "",
+    return /*#__PURE__*/ jsx_runtime_.jsx(PortfolioProvider, {
+        value: {
+            prefix: prefix
+        },
+        children: /*#__PURE__*/ (0,jsx_runtime_.jsxs)(react_.ThemeProvider, {
             children: [
                 /*#__PURE__*/ (0,jsx_runtime_.jsxs)((head_default()), {
                     children: [
@@ -768,7 +775,7 @@ module.exports = require("styled-components");
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [210,676,664], () => (__webpack_exec__(7260)));
+var __webpack_exports__ = __webpack_require__.X(0, [210,676,664], () => (__webpack_exec__(5562)));
 module.exports = __webpack_exports__;
 
 })();
